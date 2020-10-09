@@ -84,7 +84,7 @@ Anonimiteit: Een VPN verbergt je IP-adres en locatie. Als gebruiker neem je het 
  </p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+    
     </div>
   </div>
 </div>
@@ -113,7 +113,7 @@ verschillende vpn services gebruiken verschillende manieren van encryptie, maar 
 </p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+    
     </div>
   </div>
 </div>
@@ -136,7 +136,7 @@ een andere manier om een vpn te gebruiken is door je router te verbinden aan de 
 
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+
     </div>
   </div>
 </div>
@@ -163,7 +163,7 @@ een andere manier om een vpn te gebruiken is door je router te verbinden aan de 
  <p>Hier zijn een paar voorbeelden van waarom een VPN handig zou zijn om te gebruiken</p>
 <p>1. Je kan goedkoper games of andere producten kopen. Om dit uit te leggen gebruik ik het voorbeeld om games te kopen op steam. Steam is een platform waar je allemaal games op kan kopen. Maar de prijs van een spel verschilt per regio dus al kijk je op steamdb.info kan je zien in welk land een spel het goedkoopst is. En als je dan een VPN gebruikt die met een server in dat land is verbonden kan je bijvoorbeeld een spel kopen voor 7eu in plaats van 60 euro</p>
 <p>2. Het is mogelijk om series die alleen in andere landen te zien zijn om die te kunnen kijken in Nederland. Daarvoor gebruik je ook een VPN die verbind je dan met een server in een land waar die serie of film wel beschikbaar is en dan kan je het gewoon kijken. Let op: Vaak werkt dit niet met goedkopere of gratis VPN's</p>
-      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
+     
     </div>
   </div>
 </div>
