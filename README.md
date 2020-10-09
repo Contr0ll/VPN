@@ -35,9 +35,9 @@ body, html {
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
       <a href="#about" class="w3-bar-item w3-button">Wat is VPN?</a>
-      <a href="#team" class="w3-bar-item w3-button"><i class=></i> Hoe werkt een VPN?</a>
-      <a href="#work" class="w3-bar-item w3-button"><i class=></i> Verschillende soorten VPN's</a>
-      <a href="#contact" class="w3-bar-item w3-button"><i class=></i>Goedkoop steam games kopen</a>
+      <a href="#team" class="w3-bar-item w3-button"> Hoe werkt een VPN?</a>
+      <a href="#work" class="w3-bar-item w3-button"> Verschillende soorten VPN's</a>
+      <a href="#contact" class="w3-bar-item w3-button">Goedkoop steam games kopen</a>
     </div>
   
 
@@ -64,7 +64,7 @@ body, html {
 </header>
 
 <div class="w3-container" style="padding:128px 16px" id="about">
-  <h3 class="w3-center">Wat is een VPN?</h3>
+  <h3>Wat is een VPN?</h3>
 
 
 <div class="w3-container w3-white" style="padding:128px 16px">
@@ -80,8 +80,7 @@ Anonimiteit: Een VPN verbergt je IP-adres en locatie. Als gebruiker neem je het 
     </div>
     <div class="w3-col m6">
     </div>
-  </div>
-</div>
+ 
 
 
 <div class="w3-container" style="padding:128px 16px" id="team">
@@ -152,8 +151,6 @@ een andere manier om een vpn te gebruiken is door je router te verbinden aan de 
 <p>2. Het is mogelijk om series die alleen in andere landen te zien zijn om die te kunnen kijken in Nederland. Daarvoor gebruik je ook een VPN die verbind je dan met een server in een land waar die serie of film wel beschikbaar is en dan kan je het gewoon kijken. Let op: Vaak werkt dit niet met goedkopere of gratis VPN's</p>
     </div>
   </div>
-</div>
-
 
 
  
