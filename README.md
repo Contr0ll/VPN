@@ -36,9 +36,9 @@ body, html {
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
       <a href="#about" class="w3-bar-item w3-button">Wat is VPN?</a>
-      <a href="#team" class="w3-bar-item w3-button"><i class=></i> Hoe werkt een VPN?</a>
-      <a href="#work" class="w3-bar-item w3-button"><i class=></i> Verschillende soorten VPN's</a>
-      <a href="#contact" class="w3-bar-item w3-button"><i class=></i>Goedkoop steam games kopen</a>
+      <a href="#team" class="w3-bar-item w3-button"> Hoe werkt een VPN?</a>
+      <a href="#work" class="w3-bar-item w3-button"> Verschillende soorten VPN's</a>
+      <a href="#contact" class="w3-bar-item w3-button">Goedkoop steam games kopen</a>
     </div>
   
 
