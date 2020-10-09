@@ -118,8 +118,6 @@ verschillende vpn services gebruiken verschillende manieren van encryptie, maar 
   </div>
 </div>
 
-
-<!-- Work Section -->
 <div class="w3-container" style="padding:128px 16px" id="work">
   <h3 class="w3-center">Verschillende soorten VPN"s</h3>
   <p> class="w3-center w3-large">Wat voor soorten VPN's zijn er</p>
@@ -142,9 +140,6 @@ een andere manier om een vpn te gebruiken is door je router te verbinden aan de 
 </div>
 
 
-  </div>
-</div>
-
 <!-- Modal for full size images on click-->
 <div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
   <span class="w3-button w3-xxlarge w3-black w3-padding-large w3-display-topright" title="Close Modal Image">×</span>
@@ -166,7 +161,6 @@ een andere manier om een vpn te gebruiken is door je router te verbinden aan de 
      
     </div>
   </div>
-</div>
 
 
 
