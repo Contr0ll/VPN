@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
 <title>VPN</title>
 <meta charset="UTF-8">
@@ -120,7 +120,7 @@ verschillende vpn services gebruiken verschillende manieren van encryptie, maar 
 
 <div class="w3-container" style="padding:128px 16px" id="work">
   <h3 class="w3-center">Verschillende soorten VPN"s</h3>
-  <p> class="w3-center w3-large">Wat voor soorten VPN's zijn er</p>
+  <p>Wat voor soorten VPN's zijn er</p>
       <p>soorten vpn:</p>
 
 <p>*standalone vpn services:
