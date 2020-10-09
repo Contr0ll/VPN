@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <title>VPN</title>
@@ -35,9 +36,9 @@ body, html {
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
       <a href="#about" class="w3-bar-item w3-button">Wat is VPN?</a>
-      <a href="#team" class="w3-bar-item w3-button"> Hoe werkt een VPN?</a>
-      <a href="#work" class="w3-bar-item w3-button"> Verschillende soorten VPN's</a>
-      <a href="#contact" class="w3-bar-item w3-button">Goedkoop steam games kopen</a>
+      <a href="#team" class="w3-bar-item w3-button"><i class=></i> Hoe werkt een VPN?</a>
+      <a href="#work" class="w3-bar-item w3-button"><i class=></i> Verschillende soorten VPN's</a>
+      <a href="#contact" class="w3-bar-item w3-button"><i class=></i>Goedkoop steam games kopen</a>
     </div>
   
 
@@ -46,6 +47,8 @@ body, html {
     </a>
   </div>
 </div>
+
+<!-- Sidebar on small screens when clicking the menu icon -->
 <nav class="w3-sidebar w3-bar-block w3-black w3-card w3-animate-left w3-hide-medium w3-hide-large" style="display:none" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-large w3-padding-16">Close ×</a>
   <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">Wat is VPN?</a>
@@ -55,7 +58,7 @@ body, html {
   <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button">USE CODE CONTR0L #AD</a>
 </nav>
 
-
+<!-- Header with full-height image -->
 <header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
   <div class="w3-display-left w3-text-white" style="padding:48px">
     <p><a href="#about" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Kom meer te weten over VPN's</a></p>
@@ -63,10 +66,12 @@ body, html {
 
 </header>
 
+<!-- About Section -->
 <div class="w3-container" style="padding:128px 16px" id="about">
-  <h3>Wat is een VPN?</h3>
+  <h3 class="w3-center">Wat is een VPN?</h3>
 
 
+<!-- Promo Section - "We know design" -->
 <div class="w3-container w3-white" style="padding:128px 16px">
   <div class="w3-row-padding">
     <div class="w3-col m6">
@@ -79,10 +84,12 @@ Anonimiteit: Een VPN verbergt je IP-adres en locatie. Als gebruiker neem je het 
  </p>
     </div>
     <div class="w3-col m6">
+      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
     </div>
- 
+  </div>
+</div>
 
-
+<!-- Team Section -->
 <div class="w3-container" style="padding:128px 16px" id="team">
   <h3 class="w3-center">Hoe werkt een VPN?</h3>
  <div class="w3-container w3-light-grey" style="padding:128px 16px">
@@ -106,10 +113,13 @@ verschillende vpn services gebruiken verschillende manieren van encryptie, maar 
 </p>
     </div>
     <div class="w3-col m6">
+      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
     </div>
   </div>
 </div>
 
+
+<!-- Work Section -->
 <div class="w3-container" style="padding:128px 16px" id="work">
   <h3 class="w3-center">Verschillende soorten VPN"s</h3>
   <p> class="w3-center w3-large">Wat voor soorten VPN's zijn er</p>
@@ -126,6 +136,7 @@ een andere manier om een vpn te gebruiken is door je router te verbinden aan de 
 
     </div>
     <div class="w3-col m6">
+      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
     </div>
   </div>
 </div>
@@ -134,6 +145,7 @@ een andere manier om een vpn te gebruiken is door je router te verbinden aan de 
   </div>
 </div>
 
+<!-- Modal for full size images on click-->
 <div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
   <span class="w3-button w3-xxlarge w3-black w3-padding-large w3-display-topright" title="Close Modal Image">×</span>
   <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
@@ -142,6 +154,8 @@ een andere manier om een vpn te gebruiken is door je router te verbinden aan de 
   </div>
 </div>
 
+
+<!-- Contact Section -->
 <div class="w3-container w3-light-grey" style="padding:128px 16px" id="contact">
   <h3 class="w3-center">Goedkoop steam games kopen</h3>
   <p class="w3-center w3-large">Een van de vele voordelen van een VPN</p>
@@ -149,8 +163,11 @@ een andere manier om een vpn te gebruiken is door je router te verbinden aan de 
  <p>Hier zijn een paar voorbeelden van waarom een VPN handig zou zijn om te gebruiken</p>
 <p>1. Je kan goedkoper games of andere producten kopen. Om dit uit te leggen gebruik ik het voorbeeld om games te kopen op steam. Steam is een platform waar je allemaal games op kan kopen. Maar de prijs van een spel verschilt per regio dus al kijk je op steamdb.info kan je zien in welk land een spel het goedkoopst is. En als je dan een VPN gebruikt die met een server in dat land is verbonden kan je bijvoorbeeld een spel kopen voor 7eu in plaats van 60 euro</p>
 <p>2. Het is mogelijk om series die alleen in andere landen te zien zijn om die te kunnen kijken in Nederland. Daarvoor gebruik je ook een VPN die verbind je dan met een server in een land waar die serie of film wel beschikbaar is en dan kan je het gewoon kijken. Let op: Vaak werkt dit niet met goedkopere of gratis VPN's</p>
+      <img class="w3-image w3-round-large" src="/w3images/phone_buildings.jpg" alt="Buildings" width="700" height="394">
     </div>
   </div>
+</div>
+
 
 
  
